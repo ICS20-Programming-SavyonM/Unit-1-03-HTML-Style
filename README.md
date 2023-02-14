@@ -1,0 +1,1 @@
+[![GitHub's Super Linter](https://github.com/<HTMLSTYLE>/<HTMLSTYLE>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<HTMLSTYLE>/<HTMLSTYLE>/actions)
